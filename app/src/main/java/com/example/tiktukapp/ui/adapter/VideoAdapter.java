@@ -5,6 +5,7 @@ import android.media.MediaPlayer;
 import android.net.Uri;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
@@ -72,6 +73,18 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.VideoViewHol
 //                    mp.setLooping(true);
 //                }
 //            });
+
+            videoUrl.setOnTouchListener(new View.OnTouchListener() {
+                @Override
+                public boolean onTouch(View v, MotionEvent event) {
+                    if (videoUrl.isPlaying()) {
+                        videoUrl.pause();
+                    }else {
+                        videoUrl.start();
+                    }
+                    return false;
+                }
+            });
         }
 
     }

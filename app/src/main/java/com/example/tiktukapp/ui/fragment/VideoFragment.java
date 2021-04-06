@@ -102,7 +102,7 @@ public class VideoFragment extends Fragment {
 
                             recyclerView = (RecyclerView) view.findViewById(R.id.recyclerViewVideo);
                             LinearLayoutManager linearLayoutManager = new LinearLayoutManager(view.getContext());
-                            linearLayoutManager.setOrientation(RecyclerView.VERTICAL);
+                            linearLayoutManager.setOrientation(RecyclerView.HORIZONTAL);
                             //recyclerView.setHasFixedSize(true);
                             recyclerView.setLayoutManager(linearLayoutManager);
 
