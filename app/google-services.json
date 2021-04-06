@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602004262430",
+    "project_id": "tik-tuk-app",
+    "storage_bucket": "tik-tuk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602004262430:android:da7fd9e1f803858f62680f",
+        "android_client_info": {
+          "package_name": "com.example.tiktukapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602004262430-o440h7m9vq9g92oveckt25lne5cj10mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqP8X-sUJq1_9Qfl3xjw0eSC0KyZFnbzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602004262430-o440h7m9vq9g92oveckt25lne5cj10mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

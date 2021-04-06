@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13740903752",
+    "project_id": "fire-base-demo-2da8b",
+    "storage_bucket": "fire-base-demo-2da8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13740903752:android:6c4ab2277a9a518d43377d",
+        "android_client_info": {
+          "package_name": "com.example.tiktukapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13740903752-jcd5krjnv4c8dje9lsbi4ffhql37avem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvswgY2nagtmGS5cIZxIMmrYh7EC291nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13740903752-jcd5krjnv4c8dje9lsbi4ffhql37avem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

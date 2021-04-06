@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TikTuk</string>
+    <string name="app_path">TikTuK</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_search">Khám phá</string>
+    <string name="nav_chat">Hộp thư</string>
+    <string name="nav_user">Tôi</string>
+
+    <string name="title_activity_content">TikTuk</string>
+
+    <string name="tab_text_1">Đang Follow</string>
+    <string name="tab_text_2">Dành cho bạn</string>
+
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_no_account">Bạn chưa có tài khoản?</string>
+
+    <string name="register_title">Đăng ký</string>
+
+    <string name="search_hint">Tìm kiếm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="input_username_not_valid">Username không đúng định dạng hoặc để trống!</string>
+    <string name="input_email_not_valid">Email không đúng định dạng hoặc để trống!</string>
+    <string name="input_password_not_valid">Password không đúng định dạng hoặc để trống!</string>
+
+    <string name="register_error_email_exit">Email đã tồn tại!</string>
+
+    <string name="login_email_or_password_not_valid">Email hoặc mật khẩu không chính xác</string>
+
+    <string name="step1_continue">Tiếp theo</string>
+    <string name="step2_hint_content">Mô tả video của bạn</string>
+    <string name="step2_upload">Đăng ngay</string>
+
+</resources>
